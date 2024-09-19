@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm MohammadReza</h1>
-<h3 align="center">AI Enthusiast | Final-Year Computer Science Student | Experienced in Deep Learning, Python, Machine Learning, and Django</h3>
+<h3 align="center">AI Enthusiast | Experienced in Deep Learning, Python, Machine Learning, and Django</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syydmr&label=Profile%20views&color=0e75b6&style=flat" alt="syydmr" /> </p>
 
