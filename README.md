@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm MohammadReza</h1>
-<h3 align="center">AI Enthusiast | Experienced in Deep Learning, Python, Machine Learning, and Django</h3>
+<h3 align="center">Backend Golang Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syydmr&label=Profile%20views&color=0e75b6&style=flat" alt="syydmr" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syydmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syydmr" height="30" width="40" /></a>
-<a href="https://kaggle.com/syydmohammadreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syydmohammadreza" height="30" width="40" /></a>
 <a href="https://instagram.com/syydmhmmdreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syydmhmmdreza" height="30" width="40" /></a>
 </p>
 
